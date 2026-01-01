@@ -1,2 +1,2 @@
 #nhoting
-print('hello i am jubair')
+print('no thanks')
