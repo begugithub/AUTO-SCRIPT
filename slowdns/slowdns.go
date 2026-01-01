@@ -1,4 +1,3 @@
-# What are you looking for?fn ki maa ka bhosda?
 # I'm lazy to code right now.
 # Just copy-paste.
 package main
