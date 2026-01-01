@@ -1,8 +1,4 @@
-# Jubair bro Ultra pro auto script vpn 
-
-# Directly install without the need to register an IP VPS 
-
-# Order from me (MUST READ) before using
+#VPN AUTO SCRIPT 101
 
 </p> 
 <h2 align="center"> Supported Linux Distribution</h2>
@@ -26,7 +22,7 @@
 - (Recommendation) Ubuntu 18 / 20 LTS (STABLE to use)
 <br>
 
-# Cloudflare settings for those who have their own Domain, you can check at folder [image](https://github.com/jubairbro/AUTO-SCRIPT/tree/master/image) to display other settings
+# Cloudflare settings
 <br>
 - SSL/TLS : FULL<br>
 - SSL/TLS Recommender : OFF<br>
@@ -35,9 +31,6 @@
 - Always Use HTTPS : OFF<br>
 - UNDER ATTACK MODE : OFF<br>
 <br>
-
-# Pointing
-![Pointing](https://github.com/jubairbro/AUTO-SCRIPT/blob/master/image/pointing.png)
 
 ## Service & Port:
 <br>
@@ -78,33 +71,13 @@
 - Optional [install Panel Webmin + ADS Block](https://github.com/jubairbro/AUTO-SCRIPT/tree/master/helium) Helium version 3.0 by [Abi Darwish](https://github.com/abidarwish)
 - Optional [install Bot Telegram Xolpanel](https://github.com/jubairbro/AUTO-SCRIPT/tree/master/bot%20telegram%20panel) by [XolvaID](https://github.com/XolvaID)
   
-# Menu
-![Service Status](https://github.com/jubairbro/AUTO-SCRIPT/blob/master/image/menu1.png)
-
-# Service Status
-![Service Status](https://github.com/jubairbro/AUTO-SCRIPT/blob/master/image/service1.png)
-
-# [Step Install]
+# [Instructions]
 - Step 1 for (debian) please update first
 ```
 apt update && apt upgrade -y && reboot
 ```
-- Step 2 for (ubuntu) directly install
+- Step 2 for (ubuntu) direct install
 ```
 sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://raw.githubusercontent.com/jubairbro/AUTO-SCRIPT/master/setup1.sh && chmod +x setup1.sh && sed -i -e 's/\r$//' setup1.sh && screen -S setup ./setup1.sh
 ```
-
-# Telegram
-[![Telegram-chat](https://img.shields.io/badge/Chat-Telegram-blue)](https://t.me/jubairFF/)
-[![Telegram-grup](https://img.shields.io/badge/Grup-Telegram-blue)](https://t.me/+1p9RnexGMP0yOGVl/)
-
-# ATTENTION (MUST READ) CAREFULLY
-- PROHIBITED FOR SALE BECAUSE I GET FREE FROM THE INTERNET
-- DATA SECURITY / YOUR USE HISTORY ON THE INTERNET IS NOT MY RESPONSIBILITY AS A SCRIPT PROVIDER
-- ALL YOUR DATA / USAGE HISTORY ON THE INTERNET ONLY VPS NETWORK PROVIDERS MANAGE IT AND (FBI) maybe
-- USE IT WISELY THEN YOU WILL AVOID PROBLEMS
-- WATCHING ADULT FILM IS YOUR OWN RESPONSIBILITY
-
-# FINAL MESSAGE
-- THANK YOU FOR TAKING THE TIME TO READ AND SORRY IF THERE ARE IMPACT WORDS
-- BECAUSE I AM ALSO A HUMAN WHO DOESN'T ESCAPE FROM MISTAKES
+# fork by BEGU distribute at your own risk
