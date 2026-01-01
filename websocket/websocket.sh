@@ -2,7 +2,6 @@
 # =========================================
 # Quick Setup | Script Setup Manager
 # Edition : Stable Edition 1.0
-# Auther  : Jubair bro 
 # (C) Copyright 2025
 # =========================================
 clear
@@ -13,7 +12,7 @@ sleep 2
 cd
 
 # // GIT USER
-GitUser="jubairbro"
+GitUser="begugithub"
 
 # // SYSTEM WEBSOCKET HTTPS 443
 cat <<EOF> /etc/systemd/system/ws-https.service
