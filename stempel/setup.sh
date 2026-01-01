@@ -245,9 +245,9 @@ echo "   - Vless gRPC               : 443" | tee -a log-install.txt
 echo "   - Trojan gRPC              : 443" | tee -a log-install.txt
 echo "   - Shadowsocks gRPC         : 443" | tee -a log-install.txt
 echo ""
-echo "=============================Contact==============================" | tee -a log-install.txt
-echo "---------------------------t.me/JubairFF-----------------------------" | tee -a log-install.txt
-echo "==================================================================" | tee -a log-install.txt
+echo "=============================JOIN====================================" | tee -a log-install.txt
+echo "---------------------------FREERDP DISCORD---------------------------" | tee -a log-install.txt
+echo "=====================================================================" | tee -a log-install.txt
 echo -e ""
 echo ""
 echo "" | tee -a log-install.txt
